@@ -121,4 +121,6 @@ const newUsers = users.map((item, index) => {
 });
 console.log(newUsers);
 // Delete Any User Has Gender Male
-users.filter((item, index) => index != 1);
+
+
+// hello
